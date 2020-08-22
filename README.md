@@ -6,6 +6,6 @@
 
 **Find me anywhere**
 
-[![Twitter Badge](https://img.shields.io/badge/-@ptkmo1-fcba03?style=flat-rounded&labelColor=fcba03&logo=twitter&logoColor=white&link=https://twitter.com/ptkmo1)](https://twitter.com/ptkmo1) 
-[![Linkedin Badge](https://img.shields.io/badge/-PatrickMoreira-fcba03?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ptkm1/)](https://www.linkedin.com/in/ptkm1/) 
-[![Gmail Badge](https://img.shields.io/badge/-ptkdev@outlook.com-fcba03?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:ptkdev@outlook.com)](mailto:ptkdev@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ptkmo1-6272a4?style=flat-rounded&labelColor=44475a&logo=twitter&logoColor=white&link=https://twitter.com/ptkmo1)](https://twitter.com/ptkmo1) 
+[![Linkedin Badge](https://img.shields.io/badge/-PatrickMoreira-6272a4?style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ptkm1/)](https://www.linkedin.com/in/ptkm1/) 
+[![Gmail Badge](https://img.shields.io/badge/-ptkdev@outlook.com-6272a4?style=flat-rounded&logo=Gmail&logoColor=white&link=mailto:ptkdev@outlook.com)](mailto:ptkdev@outlook.com)
